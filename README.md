@@ -1,6 +1,6 @@
 # coffee
 
-A new Flutter project.
+A simple Flutter project.
 
 ## Getting Started
 
@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![Screenshot of the hole entry apge](https://github.com/anesMoB/coffee-flutter-app/blob/main/1.jpg)
+![Screenshot of the hole home apge](https://github.com/anesMoB/coffee-flutter-app/blob/main/2.jpg)
+![Screenshot of the hole home apge](https://github.com/anesMoB/coffee-flutter-app/blob/main/3.jpg)
+![Screenshot of the hole home apge](https://github.com/anesMoB/coffee-flutter-app/blob/main/4.jpg)
+![Screenshot of the hole price apge](https://github.com/anesMoB/coffee-flutter-app/blob/main/5.jpg)
+
